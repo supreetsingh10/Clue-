@@ -1,5 +1,7 @@
 # Clue-
 
+git clone 
+
 Clue is a text based adventure game, made in C. 
 The map is of size 3 * 3. 
 The game includes randomization of the avatar start location and randomization of the map. There are 4 directions in which the player can move, north, south, east and west. The rooms have objects that can be taken by a player. The player can move across rooms using Go Command. 
