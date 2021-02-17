@@ -1,6 +1,7 @@
 # Clue-
 
 Steps to play the game : 
+
 git clone https://github.com/supreetsingh10/Clue-
 
 cd Clue-
@@ -8,6 +9,9 @@ cd Clue-
 chmod +x CLUE
 
 ./CLUE
+
+
+About Clue: 
 
 
 Clue is a text based adventure game, made in C. 
